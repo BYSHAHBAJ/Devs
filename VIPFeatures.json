@@ -23,7 +23,16 @@
   },
 
   "GLOBAL": {
-    "leaks": []
+    "leaks": [
+    {
+        "title": "PRIZE PATH & LUCKY SPIN",
+        "subtitle": "GLOBAL",
+        "description": "Exclusive content.",
+        "date": "20 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM.sav",
+        "fileName": "game_patch_4.6.0.21567.pak"
+      }
+    ]
   },
 
   "KOREA": {
