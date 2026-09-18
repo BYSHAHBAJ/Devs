@@ -1,9 +1,40 @@
 {
-  "headerTitle": "VIP FEATURES",
-  "headerSubtitle": "EXCLUSIVE TOOLS & FEATURES",
-  "badge": "VIP CONTENT",
-  "sectionTitle": "VIP FEATURES",
-  "headline": "This hidden area is ready for your exclusive features.",
-  "cardTitle": "VIP AREA READY",
-  "cardDescription": "Exclusive features will be added here without changing the existing FPS, GAME EVENTS, or permission flows."
+  "vip": {
+    "headerTitle": "VIP FEATURES",
+    "headerSubtitle": "EXCLUSIVE TOOLS & FEATURES",
+    "badge": "VIP",
+    "sectionTitle": "VIP FEATURES",
+    "headline": "Exclusive VIP content.",
+    "cardTitle": "VIP AREA",
+    "cardDescription": "Exclusive features."
+  },
+
+  "INDIA": {
+    "leaks": [
+      {
+        "title": "PRIZE PATH & LUCKY SPIN",
+        "subtitle": "INDIA",
+        "description": "Exclusive content.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM.sav",
+        "fileName": "game_patch_4.6.0.21567.pak"
+      }
+    ]
+  },
+
+  "GLOBAL": {
+    "leaks": []
+  },
+
+  "KOREA": {
+    "leaks": []
+  },
+
+  "TAIWAN": {
+    "leaks": []
+  },
+
+  "VIETNAM": {
+    "leaks": []
+  }
 }
