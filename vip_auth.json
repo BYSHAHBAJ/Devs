@@ -1,19 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T05:23:30.613653+00:00",
+  "updatedAt": "2026-09-19T05:29:28.446605+00:00",
   "requests": {
     "SB6WZ-W2XXT": {
       "status": "approved",
       "device": "C5F52D8661A2F70A7EEBC8C8",
       "key": "SHAHBAJVIP",
       "approvedAt": "2026-09-19T05:23:30.613653+00:00"
+    },
+    "LLF33-FJCZB": {
+      "status": "approved",
+      "device": "C5F52D8661A2F70A7EEBC8C8",
+      "telegramUserId": 5737003386,
+      "createdAt": "2026-09-19T05:29:28.446399+00:00",
+      "source": "admin_approve",
+      "key": "SHAHBAJVIP",
+      "approvedAt": "2026-09-19T05:29:28.446605+00:00"
     }
   },
   "keys": {
     "SHAHBAJVIP": {
       "enabled": true,
       "maxDevices": 1,
-      "expiresAt": "2026-10-19T05:23:30.613653Z",
+      "expiresAt": "2026-10-19T05:29:28.446605Z",
       "devices": [
         "C5F52D8661A2F70A7EEBC8C8"
       ]
