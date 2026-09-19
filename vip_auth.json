@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T12:04:07.322286+00:00",
+  "updatedAt": "2026-09-19T12:07:21.648208+00:00",
   "requests": {
     "SB6WZ-W2XXT": {
       "status": "approved",
@@ -69,7 +69,7 @@
       "createdAt": "2026-09-19T12:04:07.321929+00:00",
       "source": "admin_approve",
       "key": "NEW5",
-      "approvedAt": "2026-09-19T12:04:07.322286+00:00"
+      "approvedAt": "2026-09-19T12:07:21.648208+00:00"
     }
   },
   "keys": {
@@ -124,7 +124,7 @@
     "NEW5": {
       "enabled": true,
       "maxDevices": 1,
-      "expiresAt": "2028-02-01T12:04:07.322286Z",
+      "expiresAt": "2026-10-19T12:07:21.648208Z",
       "devices": [
         "24AC27254A41A3F26DD2BC4F"
       ]
