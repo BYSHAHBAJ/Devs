@@ -1,6 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T00:00:00Z",
-  "requests": {},
+  "updatedAt": "2026-09-19T09:45:00Z",
+  "requests": {
+    "SB6WZ-W2XXT": {
+      "status": "pending",
+      "device": "C5F52D8661A2F70A7EEBC8C8"
+    }
+  },
   "keys": {}
 }
