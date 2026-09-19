@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T15:35:21.868920+00:00",
+  "updatedAt": "2026-09-19T16:00:15.209943+00:00",
   "requests": {
     "SB6WZ-W2XXT": {
       "status": "approved",
@@ -97,6 +97,15 @@
       "source": "admin_approve",
       "key": "NEW8",
       "approvedAt": "2026-09-19T15:35:21.868920+00:00"
+    },
+    "MHRGE-2GBKP": {
+      "status": "approved",
+      "device": "8AA82D2F47DC8EE8C339CC71",
+      "telegramUserId": 5737003386,
+      "createdAt": "2026-09-19T16:00:15.208874+00:00",
+      "source": "admin_approve",
+      "key": "NEW9",
+      "approvedAt": "2026-09-19T16:00:15.209943+00:00"
     }
   },
   "keys": {
@@ -178,6 +187,14 @@
       "expiresAt": "2026-11-18T15:35:21.868920Z",
       "devices": [
         "6CB6B016D9A465D6836F96EE"
+      ]
+    },
+    "NEW9": {
+      "enabled": true,
+      "maxDevices": 1,
+      "expiresAt": "2026-10-29T16:00:15.209943Z",
+      "devices": [
+        "8AA82D2F47DC8EE8C339CC71"
       ]
     }
   }
