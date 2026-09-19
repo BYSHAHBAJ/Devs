@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T05:18:13.354351+00:00",
+  "updatedAt": "2026-09-19T05:23:30.613653+00:00",
   "requests": {
     "SB6WZ-W2XXT": {
       "status": "approved",
       "device": "C5F52D8661A2F70A7EEBC8C8",
       "key": "SHAHBAJVIP",
-      "approvedAt": "2026-09-19T05:17:00.859521+00:00"
+      "approvedAt": "2026-09-19T05:23:30.613653+00:00"
     }
   },
   "keys": {
     "SHAHBAJVIP": {
-      "enabled": false,
+      "enabled": true,
       "maxDevices": 1,
-      "expiresAt": "2026-10-19T05:17:00.859521Z",
+      "expiresAt": "2026-10-19T05:23:30.613653Z",
       "devices": [
         "C5F52D8661A2F70A7EEBC8C8"
       ]
