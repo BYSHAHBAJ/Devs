@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T07:06:39.353540+00:00",
+  "updatedAt": "2026-09-19T10:50:47.270678+00:00",
   "requests": {
     "SB6WZ-W2XXT": {
       "status": "approved",
@@ -52,6 +52,15 @@
       "source": "admin_approve",
       "key": "NEW3",
       "approvedAt": "2026-09-19T07:06:39.353540+00:00"
+    },
+    "T29SG-M5J7R": {
+      "status": "approved",
+      "device": "E4649B61B518B86428A3986B",
+      "telegramUserId": 5737003386,
+      "createdAt": "2026-09-19T10:50:47.270411+00:00",
+      "source": "admin_approve",
+      "key": "NEW4",
+      "approvedAt": "2026-09-19T10:50:47.270678+00:00"
     }
   },
   "keys": {
@@ -93,6 +102,14 @@
       "expiresAt": "2026-10-19T07:06:39.353540Z",
       "devices": [
         "EE3C7804A0F4AEDB9C8A80D3"
+      ]
+    },
+    "NEW4": {
+      "enabled": true,
+      "maxDevices": 1,
+      "expiresAt": "2026-10-19T10:50:47.270678Z",
+      "devices": [
+        "E4649B61B518B86428A3986B"
       ]
     }
   }
