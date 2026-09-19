@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T14:03:44.541218+00:00",
+  "updatedAt": "2026-09-19T15:35:21.868920+00:00",
   "requests": {
     "SB6WZ-W2XXT": {
       "status": "approved",
@@ -88,6 +88,15 @@
       "source": "admin_approve",
       "key": "NEW7",
       "approvedAt": "2026-09-19T14:03:44.541218+00:00"
+    },
+    "HUQ35-EMBGM": {
+      "status": "approved",
+      "device": "6CB6B016D9A465D6836F96EE",
+      "telegramUserId": 5737003386,
+      "createdAt": "2026-09-19T15:35:21.868769+00:00",
+      "source": "admin_approve",
+      "key": "NEW8",
+      "approvedAt": "2026-09-19T15:35:21.868920+00:00"
     }
   },
   "keys": {
@@ -161,6 +170,14 @@
       "expiresAt": "2026-10-19T14:03:44.541218Z",
       "devices": [
         "24AC27254A41A3F26DD2BC4F"
+      ]
+    },
+    "NEW8": {
+      "enabled": true,
+      "maxDevices": 1,
+      "expiresAt": "2026-11-18T15:35:21.868920Z",
+      "devices": [
+        "6CB6B016D9A465D6836F96EE"
       ]
     }
   }
