@@ -55,6 +55,14 @@
         "date": "28 SEPTEMBER 2026",
         "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/PDP.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
+      },    
+      {
+        "title": "v4.6 GILT 1",
+        "subtitle": "GLOBAL",
+        "description": "Exclusive content.",
+        "date": "25 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/GILT1_GL_FIXED.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
       },
       {
         "title": "PREMIUM CRATE",
@@ -62,14 +70,6 @@
         "description": "Exclusive content.",
         "date": "21 SEPTEMBER 2026",
         "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/PREMIUM_CRATE_GL.sav",
-        "fileName": "game_patch_4.6.1.21575.pak"
-      }    
-      {
-        "title": "v4.6 GILT 1",
-        "subtitle": "GLOBAL",
-        "description": "Exclusive content.",
-        "date": "25 SEPTEMBER 2026",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/GILT1_GL_FIXED.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       }
     ]
