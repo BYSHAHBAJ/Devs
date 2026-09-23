@@ -33,13 +33,21 @@
   "GLOBAL": {
     "leaks": [
     {
-        "title": "PREMIUM CRATE",
+        "title": "ALL V4.6 SKINS",
         "subtitle": "GLOBAL",
-        "description": "Exclusive content.",
-        "date": "21 SEPTEMBER 2026",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/PREMIUM_CRATE_GL.sav",
+        "description": "DO NOT USE MAIN ID",
+        "date": "VIP",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/ALL_SKINS.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
+      {
+        "title": "PRIZE PATH & LUCKY SPIN",
+        "subtitle": "GLOBAL",
+        "description": "Exclusive content.",
+        "date": "20 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/OPM_GL.sav",
+        "fileName": "game_patch_4.6.0.21567.pak"
+      },    
     {
         "title": "PDP LUCKY SPIN SKINS",
         "subtitle": "GLOBAL",
@@ -48,14 +56,14 @@
         "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/PDP.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-    {
-        "title": "PRIZE PATH & LUCKY SPIN",
+      {
+        "title": "PREMIUM CRATE",
         "subtitle": "GLOBAL",
         "description": "Exclusive content.",
-        "date": "20 SEPTEMBER 2026",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/OPM_GL.sav",
-        "fileName": "game_patch_4.6.0.21567.pak"
-      },
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/PREMIUM_CRATE_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      }    
       {
         "title": "v4.6 GILT 1",
         "subtitle": "GLOBAL",
