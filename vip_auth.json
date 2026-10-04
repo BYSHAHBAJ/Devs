@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T06:24:00.858524+00:00",
+  "updatedAt": "2026-10-04T06:25:10.690622+00:00",
   "requests": {
     "SB6WZ-W2XXT": {
       "status": "approved",
@@ -187,6 +187,15 @@
       "source": "admin_approve",
       "key": "NEW19",
       "approvedAt": "2026-10-04T06:24:00.858524+00:00"
+    },
+    "BCCDH-C45LY": {
+      "status": "approved",
+      "device": "AA3E3513A76A0F2BECE1F52C",
+      "telegramUserId": 5737003386,
+      "createdAt": "2026-10-04T06:25:10.690515+00:00",
+      "source": "admin_approve",
+      "key": "NEW20",
+      "approvedAt": "2026-10-04T06:25:10.690622+00:00"
     }
   },
   "keys": {
@@ -356,6 +365,14 @@
       "expiresAt": "2026-12-03T06:24:00.858524Z",
       "devices": [
         "24AC27254A41A3F26DD2BC4F"
+      ]
+    },
+    "NEW20": {
+      "enabled": true,
+      "maxDevices": 1,
+      "expiresAt": "2026-12-03T06:25:10.690622Z",
+      "devices": [
+        "AA3E3513A76A0F2BECE1F52C"
       ]
     }
   }
