@@ -10,11 +10,28 @@
   },
 
   "INDIA": {
-    "leaks": []
+    "leaks": [
+    {
+        "title": "HONOR EXCLUSIVE",
+        "subtitle": "INDIA",
+        "description": "DO NOT USE MAIN ID",
+        "date": "VIP",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/0710.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      }
+      ]
   },
 
   "GLOBAL": {
     "leaks": [
+        {
+        "title": "HONOR EXCLUSIVE",
+        "subtitle": "GLOBAL",
+        "description": "DO NOT USE MAIN ID",
+        "date": "VIP",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/07100.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
       {
         "title": "B.duck",
         "subtitle": "GLOBAL",
@@ -59,7 +76,16 @@
   },
 
   "VIETNAM": {
-    "leaks": []
+    "leaks": [
+            {
+        "title": "HONOR EXCLUSIVE",
+        "subtitle": "VIETNAM",
+        "description": "DO NOT USE MAIN ID",
+        "date": "VIP",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/07100.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      }
+      ]
   },
 
   "BETA": {
