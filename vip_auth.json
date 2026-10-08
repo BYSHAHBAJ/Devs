@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T06:25:10.690622+00:00",
+  "updatedAt": "2026-10-08T09:52:13.371210+00:00",
   "requests": {
     "SB6WZ-W2XXT": {
       "status": "approved",
@@ -196,6 +196,15 @@
       "source": "admin_approve",
       "key": "NEW20",
       "approvedAt": "2026-10-04T06:25:10.690622+00:00"
+    },
+    "4ZEML-QNMTC": {
+      "status": "approved",
+      "device": "945244610418A613C00E0251",
+      "telegramUserId": 5737003386,
+      "createdAt": "2026-10-08T09:52:13.370863+00:00",
+      "source": "admin_approve",
+      "key": "NEW21",
+      "approvedAt": "2026-10-08T09:52:13.371210+00:00"
     }
   },
   "keys": {
@@ -373,6 +382,14 @@
       "expiresAt": "2026-12-03T06:25:10.690622Z",
       "devices": [
         "AA3E3513A76A0F2BECE1F52C"
+      ]
+    },
+    "NEW21": {
+      "enabled": true,
+      "maxDevices": 1,
+      "expiresAt": "2026-12-07T09:52:13.371210Z",
+      "devices": [
+        "945244610418A613C00E0251"
       ]
     }
   }
