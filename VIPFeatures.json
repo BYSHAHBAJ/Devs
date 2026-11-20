@@ -14,12 +14,12 @@
   "GLOBAL": {
     "leaks": [
       {
-        "title": "ALL SKINS + BENTLEY",
+        "title": "ALL SKINS (v4.7)",
         "subtitle": "GLOBAL",
-        "description": "DO NOT USE MAIN ID",
-        "date": "VIP",
+        "fileName": "game_patch_4.7.0.21750.pak",
         "url": "https:\/\/github.com\/BYSHAHBAJ\/Devs\/releases\/download\/FILES\/AppResouces.txt",
-        "fileName": "game_patch_4.7.0.21750.pak"
+        "description": "DO NOT USE MAIN ID",
+        "date": "VIP"
       }
     ]
   },
