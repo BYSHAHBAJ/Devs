@@ -8,20 +8,9 @@
     "cardTitle": "VIP AREA",
     "cardDescription": "Exclusive features."
   },
-
   "INDIA": {
-    "leaks": [
-    {
-        "title": "TEST",
-        "subtitle": "INDIA",
-        "description": "DO NOT USE MAIN ID",
-        "date": "VIP",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/game_patch_4.6.1.21583.pak",
-        "fileName": "game_patch_4.6.1.21583.pak"
-      }
-      ]
+    "leaks": []
   },
-
   "GLOBAL": {
     "leaks": [
       {
@@ -29,69 +18,65 @@
         "subtitle": "GLOBAL",
         "description": "DO NOT USE MAIN ID",
         "date": "VIP",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/AppResouces.txt",
+        "url": "https:\/\/github.com\/BYSHAHBAJ\/Devs\/releases\/download\/FILES\/AppResouces.txt",
         "fileName": "game_patch_4.7.0.21750.pak"
       }
     ]
   },
-
   "KOREA": {
     "leaks": []
   },
-
   "TAIWAN": {
     "leaks": []
   },
-
   "VIETNAM": {
     "leaks": [
-            {
+      {
         "title": "HONOR EXCLUSIVE",
         "subtitle": "VIETNAM",
         "description": "DO NOT USE MAIN ID",
         "date": "VIP",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/07100.sav",
+        "url": "https:\/\/github.com\/BYSHAHBAJ\/Devs\/releases\/download\/FILES\/07100.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       }
-      ]
+    ]
   },
-
   "BETA": {
     "leaks": [
       {
         "title": "AKM GLACIER SWITCH EFFECTS 💥🤟",
-        "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
+        "image": "https:\/\/github.com\/BYSHAHBAJ\/FILES\/releases\/download\/NEW\/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
         "subtitle": "BETA",
         "description": "SHARE YOUR FEEDBACK ON TELEGRAM",
         "date": "SOON",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/AKM_GLACIER_471.sav",
+        "url": "https:\/\/github.com\/BYSHAHBAJ\/Devs\/releases\/download\/FILES\/AKM_GLACIER_471.sav",
         "fileName": "game_patch_4.7.1.21596.pak"
       },
       {
         "title": "ALL SKINS 4.7.1 💥🤟",
-        "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
+        "image": "https:\/\/github.com\/BYSHAHBAJ\/FILES\/releases\/download\/NEW\/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
         "subtitle": "BETA",
         "description": "SHARE YOUR FEEDBACK ON TELEGRAM",
         "date": "SOON",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/NEW_SKINS_471.sav",
+        "url": "https:\/\/github.com\/BYSHAHBAJ\/Devs\/releases\/download\/FILES\/NEW_SKINS_471.sav",
         "fileName": "game_patch_4.7.1.21596.pak"
       },
       {
         "title": "HD RESOURCES",
-        "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
+        "image": "https:\/\/github.com\/BYSHAHBAJ\/FILES\/releases\/download\/NEW\/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
         "subtitle": "BETA",
         "description": "SHARE YOUR FEEDBACK ON TELEGRAM",
         "date": "SOON",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/DOWNLOAD_HD_471.sav",
+        "url": "https:\/\/github.com\/BYSHAHBAJ\/Devs\/releases\/download\/FILES\/DOWNLOAD_HD_471.sav",
         "fileName": "game_patch_4.7.1.21596.pak"
       },
       {
         "title": "ALL OLD SKINS 4.7.1",
-        "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
+        "image": "https:\/\/github.com\/BYSHAHBAJ\/FILES\/releases\/download\/NEW\/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
         "subtitle": "BETA",
         "description": "SHARE YOUR FEEDBACK ON TELEGRAM",
         "date": "Try Now",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/OLD_SKINS_471.sav",
+        "url": "https:\/\/github.com\/BYSHAHBAJ\/Devs\/releases\/download\/FILES\/OLD_SKINS_471.sav",
         "fileName": "game_patch_4.7.1.21596.pak"
       }
     ]
